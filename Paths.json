@@ -1,0 +1,6 @@
+{
+	"/C/apps/*": [
+		"/C/apps/FileManager"
+	],
+	"/C/(!apps)/**.*": []
+}
